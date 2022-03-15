@@ -1,0 +1,9 @@
+namePrefix: argo-
+
+resources:
+- redis-leader-deployment.yaml
+- redis-leader-service.yaml
+- redis-follower-deployment.yaml
+- redis-follower-service.yaml
+- frontend-deployment.yaml
+- frontend-service.yaml
