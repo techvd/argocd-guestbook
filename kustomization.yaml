@@ -1,5 +1,3 @@
-namePrefix: argo-
-
 resources:
 - redis-leader-deployment.yaml
 - redis-leader-service.yaml
